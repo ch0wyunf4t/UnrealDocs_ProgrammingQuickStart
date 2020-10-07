@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\QuickStart.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D5E78C81-FB46-4D7F-9640-2AE1CE833B46}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\QuickStart.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\QuickStartEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B0B7D3AC-3360-4C92-8C13-61ADFB0EB0FF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\QuickStart">
+      <UniqueIdentifier>{FC5C3EFF-A116-4EE0-9089-C620AB7CB8D4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\QuickStart\FloatingActor.cpp">
+      <Filter>Source\QuickStart</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuickStart\FloatingActor.h">
+      <Filter>Source\QuickStart</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\QuickStart\QuickStart.Build.cs">
+      <Filter>Source\QuickStart</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\QuickStart\QuickStart.cpp">
+      <Filter>Source\QuickStart</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuickStart\QuickStart.h">
+      <Filter>Source\QuickStart</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuickStart\QuickStartGameModeBase.cpp">
+      <Filter>Source\QuickStart</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuickStart\QuickStartGameModeBase.h">
+      <Filter>Source\QuickStart</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

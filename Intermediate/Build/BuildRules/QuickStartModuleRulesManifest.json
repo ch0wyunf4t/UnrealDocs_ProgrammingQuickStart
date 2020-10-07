@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ts\\Documents\\Unreal Projects\\QuickStart\\Source\\QuickStart\\QuickStart.Build.cs",
+		"C:\\Users\\ts\\Documents\\Unreal Projects\\QuickStart\\Source\\QuickStart.Target.cs",
+		"C:\\Users\\ts\\Documents\\Unreal Projects\\QuickStart\\Source\\QuickStartEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
